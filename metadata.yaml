@@ -1,0 +1,28 @@
+_repo: Nacha-Regules_60748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gálvez, Manuel
+    aliases:
+    - Baluzera, Manuel Gálvez
+    - Galvez, Manuel
+    birthdate: 1882
+    deathdate: 1962
+    gutenberg_agent_id: '50450'
+    url: http://www.gutenberg.org/2009/agents/50450
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Manuel_G%C3%A1lvez
+    - https://es.wikipedia.org/wiki/Manuel_G%C3%A1lvez
+description: ''
+gutenberg_issued: '2019-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60748'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Nacha Regules
+url: http://www.gutenberg.org/ebooks/60748
